@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url("https://blog.way.com/wp-content/uploads/2024/07/Brooklyn-Bridge-Parking.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    margin: 50px auto;
+    width: 300px;
+    background-color: rgba(0, 0, 255, 0.55);
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+.form{
+    border-radius: 100px;
+    width: 200px;
+    background-color: rgba(237, 242, 245, 0.555);
+    color: white;
+    border: none;
+}
+input::placeholder{
+    color: white;
+}
+
+
+button{
+    width: 200px;
+    border-radius: 100px;
+    background-color: rgb(1, 103, 255);
+    padding: 8px 12px ;
+    border: none;
+    color: white;
+}
+label{
+    color: rgba(255, 255, 255, 0.603);
+}
+input{
+    padding: 8px 12px;
+}
+h1{
+    color: white;
+}
