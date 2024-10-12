@@ -1,1 +1,1 @@
-https://github.com/ZeboNasriddinova/form.git
+https://zebonasriddinova.github.io/form/
